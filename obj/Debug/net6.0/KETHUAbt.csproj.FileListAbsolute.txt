@@ -1,0 +1,15 @@
+C:\Users\tingu\Desktop\C-SHARP-INTERFACE\KETHUAbt\KETHUAbt\bin\Debug\net6.0\KETHUAbt.exe
+C:\Users\tingu\Desktop\C-SHARP-INTERFACE\KETHUAbt\KETHUAbt\bin\Debug\net6.0\KETHUAbt.deps.json
+C:\Users\tingu\Desktop\C-SHARP-INTERFACE\KETHUAbt\KETHUAbt\bin\Debug\net6.0\KETHUAbt.runtimeconfig.json
+C:\Users\tingu\Desktop\C-SHARP-INTERFACE\KETHUAbt\KETHUAbt\bin\Debug\net6.0\KETHUAbt.dll
+C:\Users\tingu\Desktop\C-SHARP-INTERFACE\KETHUAbt\KETHUAbt\bin\Debug\net6.0\KETHUAbt.pdb
+C:\Users\tingu\Desktop\C-SHARP-INTERFACE\KETHUAbt\KETHUAbt\obj\Debug\net6.0\KETHUAbt.csproj.AssemblyReference.cache
+C:\Users\tingu\Desktop\C-SHARP-INTERFACE\KETHUAbt\KETHUAbt\obj\Debug\net6.0\KETHUAbt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tingu\Desktop\C-SHARP-INTERFACE\KETHUAbt\KETHUAbt\obj\Debug\net6.0\KETHUAbt.AssemblyInfoInputs.cache
+C:\Users\tingu\Desktop\C-SHARP-INTERFACE\KETHUAbt\KETHUAbt\obj\Debug\net6.0\KETHUAbt.AssemblyInfo.cs
+C:\Users\tingu\Desktop\C-SHARP-INTERFACE\KETHUAbt\KETHUAbt\obj\Debug\net6.0\KETHUAbt.csproj.CoreCompileInputs.cache
+C:\Users\tingu\Desktop\C-SHARP-INTERFACE\KETHUAbt\KETHUAbt\obj\Debug\net6.0\KETHUAbt.dll
+C:\Users\tingu\Desktop\C-SHARP-INTERFACE\KETHUAbt\KETHUAbt\obj\Debug\net6.0\refint\KETHUAbt.dll
+C:\Users\tingu\Desktop\C-SHARP-INTERFACE\KETHUAbt\KETHUAbt\obj\Debug\net6.0\KETHUAbt.pdb
+C:\Users\tingu\Desktop\C-SHARP-INTERFACE\KETHUAbt\KETHUAbt\obj\Debug\net6.0\KETHUAbt.genruntimeconfig.cache
+C:\Users\tingu\Desktop\C-SHARP-INTERFACE\KETHUAbt\KETHUAbt\obj\Debug\net6.0\ref\KETHUAbt.dll

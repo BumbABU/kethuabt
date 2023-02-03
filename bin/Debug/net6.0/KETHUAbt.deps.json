@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KETHUAbt/1.0.0": {
+        "runtime": {
+          "KETHUAbt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KETHUAbt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
